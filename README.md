@@ -38,3 +38,7 @@
                     * StorageAccount
                 - Catalog -> gsynergy
                 - Schema -> default
+
+
+**NOTE** - Used online tool to create ER diagram https://erd.dbdesigner.net/
+         and Canva for data flow diagram
